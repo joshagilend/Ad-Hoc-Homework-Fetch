@@ -1,3 +1,20 @@
+# Ad Hoc Phone Screen - A Sanity Check by Josh Stroud
+Source: [https://homework.adhoc.team/fetch/](https://homework.adhoc.team/fetch/)
+
+From the Software Development section of the ["Sanity check" Wikipedia entry](https://en.wikipedia.org/wiki/Sanity_check): "In software development, a sanity test evaluates the result of a subset of application functionality to determine whether it is possible and reasonable to proceed with further testing of the entire application... The point of a sanity test is to rule out certain classes of obviously false results, not to catch every possible error."
+
+The point of this exercise is to offer a "sanity check" of a potential software engineering applicant's abilities as an engineer. You hear about sanity checks as an important part of junior software development interviews on sites like Hacker News and Reddit, where interviewers proclaim that candidates could not even code FizzBuzz.
+
+[FizzBuzz on Wikipedia](https://en.wikipedia.org/wiki/Fizz_buzz)
+
+"Fizz buzz (often spelled FizzBuzz in this context) has been used as an interview screening device for computer programmers. Writing a program to output the first 100 FizzBuzz numbers is a relatively trivial problem requiring little more than a loop and conditional statements. However, its value in coding interviews is to analyze fundamental coding habits that may be indicative of overall coding ingenuity."
+
+A note on ChatGPT and generative AI tools for coding. In general, I have no problem with using ChatGPT to solve a problem. The problem with generative AI tools for coding is that they are often wrong, and you will not catch the mistake unless you read the code. As a technical issue, eventually there will be tools that make the code 100% right. But the intent of the user will always be confusing to computers, because people do not speak in 1's and 0's; they speak in language. 
+
+Applicants who use ChatGPT or any sort of Github Copilot-type coding assistant will be automatically rejected. We will be using GPTZero, an AI plagarism tool, to detect generative AI code, and plan accordingly. 
+
+Brought to you by [Agilend](https://github.com/agilend) of the San Francisco and Los Angeles areas.
+
 # Fetch
 
 At Ad Hoc, our front-end applications often exchange JSON data with various RESTful APIs. We use modern JavaScript
